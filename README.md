@@ -19,7 +19,7 @@ sudo bash kasm_release/install.sh
 ```
 To skip the Images installation and changing the port:
 ```
-
+sudo bash kasm_release/install.sh -I -L 8443
 ```
 ## Add new workspaces
 ```
